@@ -102,7 +102,7 @@ Ninth Grader Reading scores
 
 # Summary :
 
-- Relacing the ninth graders scores with NaN caused Thomas High School's overall passing percentages and average scores to dropped.
+- Replacing the ninth graders scores with NaN caused Thomas High School's overall passing percentages and average scores to dropped.
 -The district also had its average math and reading scores decrease, as well as the overall passing percentage for students. And Thomas High School lost its placement as a top five school within this District.
 - However, when th total student counts excluded the Thomas High School ninth graders and by omitting their scores from the dataset, Thomas High School regained its high average scores and retained its position as the number two school in the District.
 
